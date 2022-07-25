@@ -1,5 +1,5 @@
 #until
-$i = 0
+$i = 2
 $num = 5
 
 until $i > $num  do
